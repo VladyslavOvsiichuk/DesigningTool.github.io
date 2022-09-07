@@ -1,1 +1,1 @@
-https://soumya624.github.io/Design_Tool/
+This is Desinging Tool for T shirt
